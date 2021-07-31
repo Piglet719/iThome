@@ -8,7 +8,7 @@
 
     * ### Windows
 
-        到[官網](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下載 JDK16，點選 jdk-16.0.2_windows-x64_bin.exe（以下附圖為16.0.1）：
+        到[官網](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下載 JDK16，點選 jdk-16.0.2_windows-x64_bin.exe（以下附圖為 16.0.1）：
 
         執行檔案，一直按「下一步」，記得儲存的檔案路徑！等等要使用到。
 
@@ -44,7 +44,7 @@
 
     * ### MacOS
 
-        到[官網](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下載 JDK16，點選 jdk-16.0.2_osx-x64_bin.dmg（以下附圖為16.0.1）：
+        到[官網](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下載 JDK16，點選 jdk-16.0.2_osx-x64_bin.dmg（以下附圖為 16.0.1）：
 
         執行檔案，瘋狂按「繼續」
 
