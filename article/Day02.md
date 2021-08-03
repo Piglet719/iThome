@@ -88,7 +88,7 @@
 
     IDE（Integrated Development Environment），中文稱作整合開發環境，是用來輔助開發電腦程式的應用軟體。
 
-    這次的教學是使用 Visual Studio Code（VScode），為什麼要使用 IDE 呢？寫程式需要一個文字編譯器來撰寫，你可以使用最傳統的記事本寫程式 XD，但是有更方便的工具為什麼不用呢？
+    這次的教學是使用 Visual Studio Code（VScode），為什麼要使用 IDE 呢？寫程式需要一個文字編輯器來撰寫，你可以使用最傳統的記事本寫程式 XD，但是有更方便的工具為什麼不用呢？
 
     首先到[這個網站](https://code.visualstudio.com/download)依照你的作業系統點選下載，接著一直點選「下一步」，完成後打開軟體可以看到這個畫面，點選「Extensions」（四個正方形）
 
