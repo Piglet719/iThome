@@ -24,7 +24,7 @@
 
 一直持續到最後兩個數字交換完位子，便完成由小至大的排序，以下是動圖與程式碼：
 
-<img src="../image/Day16.gif" width="100%" height="100%">
+<img src="../image/Day16.gif" width="100%">
 
 ```java
 public class SelectionSort {
