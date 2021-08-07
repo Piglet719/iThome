@@ -26,7 +26,7 @@
 
 第一輪結束後，可以排序好一個數字，接下來又回到頭開始比較，所以我們需要 n-1 輪（因為第 n-1 輪結束剩下最後一個未排序的數字，也就是最小的數字了！），才可以將整個陣列由小至大排序，以下動圖可以和程式碼一起服用：
 
-<img src="../image/Day15.gif" width="100%" height="100%">
+<img src="../image/Day15.gif" width="100%">
 
 ```java
 public class BubbleSort {
