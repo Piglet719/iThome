@@ -98,7 +98,7 @@
 
     <img src="../image/Day02_17.png" width="100%">
 
-    開啟資料夾，在左手邊新增 HelloWorld.java，開始你的第一支程式（照傳統當然是 Hello world 啦！）照著上面的程式碼打完後，按「Ctrl + \`」，開啟 terminal，輸入「javac + 檔名」，編譯程式，再輸入「java + 檔名」，執行程式
+    點選左上角 File，選擇 Open Folder，開啟你的資料夾，在左手邊新增 HelloWorld.java，開始你的第一支程式（照傳統當然是 Hello world 啦！）照著上面的程式碼打完後，按「Ctrl + \`」，開啟 terminal，輸入「javac + 檔名」，編譯程式，再輸入「java + 檔名」，執行程式
 
     <img src="../image/Day02_18.png" width="100%">
 
